@@ -1,2 +1,3 @@
-print("Hola mundo qloq como esta la vaina") 
+#prueba python
+print("Hola mundo qloq como esta la vaina")
 print("adios modafoka")
